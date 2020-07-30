@@ -7,3 +7,7 @@
 
 SELECT * 
 FROM silver.country
+
+-- COMMAND ----------
+
+SELECT * FROM silver.country LIMIT 10
